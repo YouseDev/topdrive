@@ -4,5 +4,25 @@
             <changefreq>daily</changefreq>
             <priority>1.0</priority>
         </url>
-  </urlset>
+        <url>
+            <loc>https://topdrivesa.com/category/dGDBBA</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+        <url>
+            <loc>https://topdrivesa.com/category/KzvYYQ</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+        <url>
+            <loc>https://topdrivesa.com/category/bjnZwz</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+        <url>
+            <loc>https://topdrivesa.com/wWQgxeW</loc>
+            <changefreq>daily</changefreq>
+            <priority>1.0</priority>
+        </url>
+</urlset>
 
